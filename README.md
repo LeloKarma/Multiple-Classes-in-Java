@@ -17,7 +17,7 @@ To run the project on your local machine, follow these steps:
 3. Run the following command to clone the repository:
 
    ```
-   git clone https://github.com/lelokarma/your-repository.git
+   git clone https://github.com/lelokarma/Multiple-Classes-in-Java.git
    ```
 
 ### Running the Application
@@ -25,7 +25,7 @@ To run the project on your local machine, follow these steps:
 1. Navigate to the project directory:
 
    ```
-   cd your-repository
+   cd Multiple-Classes-in-Java.git
    ```
 
 2. Compile the Java source files:
